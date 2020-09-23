@@ -5,6 +5,10 @@
   <action id="CheckinProject">
     <keyboard-shortcut first-keystroke="shift ctrl j" />
   </action>
+  <action id="CommentByBlockComment">
+    <keyboard-shortcut first-keystroke="shift ctrl slash" />
+    <keyboard-shortcut first-keystroke="shift ctrl back_slash" />
+  </action>
   <action id="EditorJoinLines" />
   <action id="FindPrevious" />
   <action id="Generate">
@@ -14,6 +18,9 @@
     <keyboard-shortcut first-keystroke="f3" />
     <mouse-shortcut keystroke="control button1" />
     <mouse-shortcut keystroke="meta button1" />
+  </action>
+  <action id="Images.Editor.ActualSize">
+    <keyboard-shortcut first-keystroke="ctrl divide" />
   </action>
   <action id="Inline" />
   <action id="SplitHorizontally">
